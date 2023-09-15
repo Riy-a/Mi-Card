@@ -3,7 +3,8 @@
 # Mi Card
 A new Flutter project.
 
-![Mi Card](https://github.com/Riy-a/Mi-Card/assets/78693959/97421691-656e-42f2-9f25-d518aecb6e35)
+
+![Mi Card](https://github.com/Riy-a/Mi-Card/assets/78693959/410bd386-da84-4d7c-9cb9-3947690bb338)
 
 
 ## Getting Started
