@@ -3,6 +3,9 @@
 # Mi Card
 A new Flutter project.
 
+![Mi Card](https://github.com/Riy-a/Mi-Card/assets/78693959/97421691-656e-42f2-9f25-d518aecb6e35)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
